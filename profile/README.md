@@ -1,4 +1,4 @@
-![banner](zhengzhou-kug-banner.png)
+![banner](profile/zhengzhou-kug-banner.png)
 # 你好！👋
 
 这里是郑州 Kotlin 用户组，旨在分享、交流与讨论 [Kotlin](https://kotlinlang.org/) 编程语言及其相关生态系统。
